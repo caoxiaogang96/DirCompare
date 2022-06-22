@@ -1,0 +1,4 @@
+[1] /home/cxg/tools/HexCompare_file/HexCompare.c  /home/cxg/tools/HexCompare_multi/HexCompare.c 两个文件不相同
+[2] /home/cxg/tools/HexCompare_file/Makefile  /home/cxg/tools/HexCompare_multi/Makefile 两个文件不相同
+[3] /home/cxg/tools/HexCompare_file/nsp_log.h  /home/cxg/tools/HexCompare_multi/nsp_log.h 两个文件不相同
+[4] /home/cxg/tools/HexCompare_file/HexCompare  /home/cxg/tools/HexCompare_multi/HexCompare 第二个文件不存在
