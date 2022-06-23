@@ -9,8 +9,8 @@ extern "C" {
 //#define NSP_LOG_DEBUG
 //#define NSP_LOG_FILE    //文件形式
 //#define NSP_LOG_TERM    //终端形式
-#define NSP_NO_LOG      //无日志
-//#define NSP_LOG_ERR		//只有错误信息
+//#define NSP_NO_LOG      //无日志
+#define NSP_LOG_ERR		//只有错误信息
 
 #define NSP_LOG_FILE_PATH   "HexCompare_Log.log"
 

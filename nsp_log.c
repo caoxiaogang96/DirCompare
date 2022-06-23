@@ -137,7 +137,7 @@ __attribute((visibility("hidden"))) int nsp_print(char *info, unsigned char *dat
 			printf("\t");
 		printf("%02x ",data[i]);
 	}
-	printf("");
+	printf("\n");
     
     return 0;
 }

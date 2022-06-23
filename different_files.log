@@ -1,4 +1,466 @@
-[1] /home/cxg/tools/HexCompare_file/HexCompare.c  /home/cxg/tools/HexCompare_multi/HexCompare.c 两个文件不相同
-[2] /home/cxg/tools/HexCompare_file/Makefile  /home/cxg/tools/HexCompare_multi/Makefile 两个文件不相同
-[3] /home/cxg/tools/HexCompare_file/nsp_log.h  /home/cxg/tools/HexCompare_multi/nsp_log.h 两个文件不相同
-[4] /home/cxg/tools/HexCompare_file/HexCompare  /home/cxg/tools/HexCompare_multi/HexCompare 第二个文件不存在
+[1]  /root/DPDK/dpdk-stable-18.11.11/app/test-bbdev/turbo_enc_default.data  /root/DPDK/dpdk-stable-18.11.11/app/test-bbdev/turbo_enc_default.data 文件类型不支持
+
+[2]  /root/DPDK/dpdk-stable-18.11.11/app/test-bbdev/turbo_dec_default.data  /root/DPDK/dpdk-stable-18.11.11/app/test-bbdev/turbo_dec_default.data 文件类型不支持
+
+[3]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal_memconfig.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal_memconfig.h 文件类型不支持
+
+[4]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_io.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_io.h 文件类型不支持
+
+[5]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_power_empty_poll.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_power_empty_poll.h 文件类型不支持
+
+[6]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_acl.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_acl.h 文件类型不支持
+
+[7]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hash.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hash.h 文件类型不支持
+
+[8]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_vhost.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_vhost.h 文件类型不支持
+
+[9]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lcore.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lcore.h 文件类型不支持
+
+[10]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_scheduler_operations.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_scheduler_operations.h 文件类型不支持
+
+[11]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ether.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ether.h 文件类型不支持
+
+[12]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_cuckoo.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_cuckoo.h 文件类型不支持
+
+[13]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic_64.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic_64.h 文件类型不支持
+
+[14]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash.h 文件类型不支持
+
+[15]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa2_cmdif.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa2_cmdif.h 文件类型不支持
+
+[16]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_comp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_comp.h 文件类型不支持
+
+[17]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_eth_rx_adapter.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_eth_rx_adapter.h 文件类型不支持
+
+[18]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow.h 文件类型不支持
+
+[19]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder_64.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder_64.h 文件类型不支持
+
+[20]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vhost_crypto.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vhost_crypto.h 文件类型不支持
+
+[21]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ip_frag.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ip_frag.h 文件类型不支持
+
+[22]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_alarm.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_alarm.h 文件类型不支持
+
+[23]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_num.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_num.h 文件类型不支持
+
+[24]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pipeline.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pipeline.h 文件类型不支持
+
+[25]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm.h 文件类型不支持
+
+[26]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bpf.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bpf.h 文件类型不支持
+
+[27]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev.h 文件类型不支持
+
+[28]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_bond_8023ad.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_bond_8023ad.h 文件类型不支持
+
+[29]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vhost.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vhost.h 文件类型不支持
+
+[30]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_security_driver.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_security_driver.h 文件类型不支持
+
+[31]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_latencystats.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_latencystats.h 文件类型不支持
+
+[32]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hexdump.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hexdump.h 文件类型不支持
+
+[33]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_avp_common.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_avp_common.h 文件类型不支持
+
+[34]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_frag.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_frag.h 文件类型不支持
+
+[35]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_vdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_vdev.h 文件类型不支持
+
+[36]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_ctrl.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_ctrl.h 文件类型不支持
+
+[37]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_stub.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_stub.h 文件类型不支持
+
+[38]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_softnic.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_softnic.h 文件类型不支持
+
+[39]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cycles.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cycles.h 文件类型不支持
+
+[40]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gso.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gso.h 文件类型不支持
+
+[41]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_string_fns.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_string_fns.h 文件类型不支持
+
+[42]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev.h 文件类型不支持
+
+[43]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf_ptype.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf_ptype.h 文件类型不支持
+
+[44]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev_pmd.h 文件类型不支持
+
+[45]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_thash.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_thash.h 文件类型不支持
+
+[46]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/dpaax_iova_table.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/dpaax_iova_table.h 文件类型不支持
+
+[47]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_func_arm64.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_func_arm64.h 文件类型不支持
+
+[48]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow_driver.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow_driver.h 文件类型不支持
+
+[49]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_timer_adapter.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_timer_adapter.h 文件类型不支持
+
+[50]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_pmd.h 文件类型不支持
+
+[51]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_ring.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_ring.h 文件类型不支持
+
+[52]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_approx.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_approx.h 文件类型不支持
+
+[53]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic.h 文件类型不支持
+
+[54]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_jobstats.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_jobstats.h 文件类型不支持
+
+[55]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd_pci.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd_pci.h 文件类型不支持
+
+[56]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_func.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_hash_func.h 文件类型不支持
+
+[57]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_source_sink.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_source_sink.h 文件类型不支持
+
+[58]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_etheraddr.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_etheraddr.h 文件类型不支持
+
+[59]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder.h 文件类型不支持
+
+[60]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tcp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tcp.h 文件类型不支持
+
+[61]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse.h 文件类型不支持
+
+[62]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_service.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_service.h 文件类型不支持
+
+[63]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pdump.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pdump.h 文件类型不支持
+
+[64]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd.h 文件类型不支持
+
+[65]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_action.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_action.h 文件类型不支持
+
+[66]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vdpa.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vdpa.h 文件类型不支持
+
+[67]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_array.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_array.h 文件类型不支持
+
+[68]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lru.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lru.h 文件类型不支持
+
+[69]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compat.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compat.h 文件类型不支持
+
+[70]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto.h 文件类型不支持
+
+[71]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_rdline.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_rdline.h 文件类型不支持
+
+[72]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_avp_fifo.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_avp_fifo.h 文件类型不支持
+
+[73]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev_pmd.h 文件类型不支持
+
+[74]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_ixgbe.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_ixgbe.h 文件类型不支持
+
+[75]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_ifpga.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_ifpga.h 文件类型不支持
+
+[76]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_portlist.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_portlist.h 文件类型不支持
+
+[77]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dev_info.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dev_info.h 文件类型不支持
+
+[78]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_version.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_version.h 文件类型不支持
+
+[79]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_random.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_random.h 文件类型不支持
+
+[80]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/bpf_def.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/bpf_def.h 文件类型不支持
+
+[81]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_sym_crypto.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_sym_crypto.h 文件类型不支持
+
+[82]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table.h 文件类型不支持
+
+[83]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring.h 文件类型不支持
+
+[84]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_per_lcore.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_per_lcore.h 文件类型不支持
+
+[85]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci.h 文件类型不支持
+
+[86]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tailq.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tailq.h 文件类型不支持
+
+[87]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring_c11_mem.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring_c11_mem.h 文件类型不支持
+
+[88]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ip.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ip.h 文件类型不支持
+
+[89]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_reciprocal.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_reciprocal.h 文件类型不支持
+
+[90]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memcpy.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memcpy.h 文件类型不支持
+
+[91]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_driver.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_driver.h 文件类型不支持
+
+[92]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_efd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_efd.h 文件类型不支持
+
+[93]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bitmap.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bitmap.h 文件类型不支持
+
+[94]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_udp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_udp.h 文件类型不支持
+
+[95]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci_dev_features.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci_dev_features.h 文件类型不支持
+
+[96]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal_interrupts.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal_interrupts.h 文件类型不支持
+
+[97]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_malloc.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_malloc.h 文件类型不支持
+
+[98]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memzone.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memzone.h 文件类型不支持
+
+[99]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_timer_adapter_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_timer_adapter_pmd.h 文件类型不支持
+
+[100]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_security.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_security.h 文件类型不支持
+
+[101]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sched_common.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sched_common.h 文件类型不支持
+
+[102]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memory.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_memory.h 文件类型不支持
+
+[103]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_log.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_log.h 文件类型不支持
+
+[104]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_option.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_option.h 文件类型不支持
+
+[105]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_i40e.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_i40e.h 文件类型不支持
+
+[106]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_timer.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_timer.h 文件类型不支持
+
+[107]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dev.h 文件类型不支持
+
+[108]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus.h 文件类型不支持
+
+[109]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_interrupts.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_interrupts.h 文件类型不支持
+
+[110]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_member.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_member.h 文件类型不支持
+
+[111]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline.h 文件类型不支持
+
+[112]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_socket.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_socket.h 文件类型不支持
+
+[113]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gre.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gre.h 文件类型不支持
+
+[114]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_branch_prediction.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_branch_prediction.h 文件类型不支持
+
+[115]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm6.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm6.h 文件类型不支持
+
+[116]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_net_crc.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_net_crc.h 文件类型不支持
+
+[117]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vmbus_reg.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vmbus_reg.h 文件类型不支持
+
+[118]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ras.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ras.h 文件类型不支持
+
+[119]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_time.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_time.h 文件类型不支持
+
+[120]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mpls.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mpls.h 文件类型不支持
+
+[121]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring_generic.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ring_generic.h 文件类型不支持
+
+[122]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd_vdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev_pmd_vdev.h 文件类型不支持
+
+[123]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto_asym.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto_asym.h 文件类型不支持
+
+[124]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_vdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_vdev.h 文件类型不支持
+
+[125]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_lpm_ipv6.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_lpm_ipv6.h 文件类型不支持
+
+[126]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mtr_driver.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mtr_driver.h 文件类型不支持
+
+[127]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rawdev_pmd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rawdev_pmd.h 文件类型不支持
+
+[128]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_crypto_adapter.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_crypto_adapter.h 文件类型不支持
+
+[129]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_keepalive.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_keepalive.h 文件类型不支持
+
+[130]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_string.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_string.h 文件类型不支持
+
+[131]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_prefetch.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_prefetch.h 文件类型不支持
+
+[132]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_reorder.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_reorder.h 文件类型不支持
+
+[133]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_cirbuf.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_cirbuf.h 文件类型不支持
+
+[134]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_acl.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_acl.h 文件类型不支持
+
+[135]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_eth_tx_adapter.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_eth_tx_adapter.h 文件类型不支持
+
+[136]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_kni.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_kni.h 文件类型不支持
+
+[137]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_fbk_hash.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_fbk_hash.h 文件类型不支持
+
+[138]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_ring.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_event_ring.h 文件类型不支持
+
+[139]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_common.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_common.h 文件类型不支持
+
+[140]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa.h 文件类型不支持
+
+[141]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eventdev.h 文件类型不支持
+
+[142]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_devargs.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_devargs.h 文件类型不支持
+
+[143]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_arp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_arp.h 文件类型不支持
+
+[144]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ring.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ring.h 文件类型不支持
+
+[145]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rwlock.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rwlock.h 文件类型不支持
+
+[146]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_service_component.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_service_component.h 文件类型不支持
+
+[147]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port.h 文件类型不支持
+
+[148]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_vmbus.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_vmbus.h 文件类型不支持
+
+[149]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_kni.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_kni.h 文件类型不支持
+
+[150]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_icmp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_icmp.h 文件类型不支持
+
+[151]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_pci.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_pci.h 文件类型不支持
+
+[152]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_spinlock.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_spinlock.h 文件类型不支持
+
+[153]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vect.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vect.h 文件类型不支持
+
+[154]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_net.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_net.h 文件类型不支持
+
+[155]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cfgfile.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cfgfile.h 文件类型不支持
+
+[156]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_launch.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_launch.h 文件类型不支持
+
+[157]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow_classify.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_flow_classify.h 文件类型不支持
+
+[158]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_fbarray.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_fbarray.h 文件类型不支持
+
+[159]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bitrate.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bitrate.h 文件类型不支持
+
+[160]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_core.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev_core.h 文件类型不支持
+
+[161]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_bnxt.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_bnxt.h 文件类型不支持
+
+[162]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hash_crc.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hash_crc.h 文件类型不支持
+
+[163]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_errno.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_errno.h 文件类型不支持
+
+[164]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf_pool_ops.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf_pool_ops.h 文件类型不支持
+
+[165]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sched.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sched.h 文件类型不支持
+
+[166]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_class.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_class.h 文件类型不支持
+
+[167]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sctp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_sctp.h 文件类型不支持
+
+[168]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_acl_osdep.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_acl_osdep.h 文件类型不支持
+
+[169]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tm_driver.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tm_driver.h 文件类型不支持
+
+[170]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ethdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_ethdev.h 文件类型不支持
+
+[171]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mtr.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mtr.h 文件类型不支持
+
+[172]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_scheduler.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cryptodev_scheduler.h 文件类型不支持
+
+[173]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rawdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rawdev.h 文件类型不支持
+
+[174]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev.h 文件类型不支持
+
+[175]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_esp.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_esp.h 文件类型不支持
+
+[176]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev_internal.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_compressdev_internal.h 文件类型不支持
+
+[177]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_distributor.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_distributor.h 文件类型不支持
+
+[178]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_malloc_heap.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_malloc_heap.h 文件类型不支持
+
+[179]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_meter.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_meter.h 文件类型不支持
+
+[180]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mempool.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mempool.h 文件类型不支持
+
+[181]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cpuflags.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_cpuflags.h 文件类型不支持
+
+[182]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_vt100.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_vt100.h 文件类型不支持
+
+[183]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tm.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_tm.h 文件类型不支持
+
+[184]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eal.h 文件类型不支持
+
+[185]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hypervisor.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_hypervisor.h 文件类型不支持
+
+[186]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa2_qdma.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pmd_dpaa2_qdma.h 文件类型不支持
+
+[187]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic_32.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_atomic_32.h 文件类型不支持
+
+[188]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev_op.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bbdev_op.h 文件类型不支持
+
+[189]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_in_action.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_in_action.h 文件类型不支持
+
+[190]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_pci.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bus_pci.h 文件类型不支持
+
+[191]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rtm.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_rtm.h 文件类型不支持
+
+[192]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_jhash.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_jhash.h 文件类型不支持
+
+[193]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto_sym.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_crypto_sym.h 文件类型不支持
+
+[194]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_lpm.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_table_lpm.h 文件类型不支持
+
+[195]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_test.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_test.h 文件类型不支持
+
+[196]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_ipaddr.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/cmdline_parse_ipaddr.h 文件类型不支持
+
+[197]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_uuid.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_uuid.h 文件类型不支持
+
+[198]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_bond.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_eth_bond.h 文件类型不支持
+
+[199]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm_sse.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lpm_sse.h 文件类型不支持
+
+[200]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_debug.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_debug.h 文件类型不支持
+
+[201]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gro.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_gro.h 文件类型不支持
+
+[202]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_ethdev.h 文件类型不支持
+
+[203]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci_dev_feature_defs.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pci_dev_feature_defs.h 文件类型不支持
+
+[204]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dpaa2_mempool.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_dpaa2_mempool.h 文件类型不支持
+
+[205]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lru_x86.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_lru_x86.h 文件类型不支持
+
+[206]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_metrics.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_metrics.h 文件类型不支持
+
+[207]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vfio.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_vfio.h 文件类型不支持
+
+[208]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder_32.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_byteorder_32.h 文件类型不支持
+
+[209]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_power.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_power.h 文件类型不支持
+
+[210]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_kvargs.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_kvargs.h 文件类型不支持
+
+[211]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pause.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_pause.h 文件类型不支持
+
+[212]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bpf_ethdev.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_bpf_ethdev.h 文件类型不支持
+
+[213]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_red.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_red.h 文件类型不支持
+
+[214]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_fd.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_fd.h 文件类型不支持
+
+[215]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_sched.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_port_sched.h 文件类型不支持
+
+[216]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/rte_mbuf.h 文件类型不支持
+
+[217]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_io.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_io.h 文件类型不支持
+
+[218]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_cycles.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_cycles.h 文件类型不支持
+
+[219]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_atomic.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_atomic.h 文件类型不支持
+
+[220]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_byteorder.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_byteorder.h 文件类型不支持
+
+[221]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_memcpy.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_memcpy.h 文件类型不支持
+
+[222]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_prefetch.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_prefetch.h 文件类型不支持
+
+[223]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_rwlock.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_rwlock.h 文件类型不支持
+
+[224]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_spinlock.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_spinlock.h 文件类型不支持
+
+[225]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_vect.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_vect.h 文件类型不支持
+
+[226]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_cpuflags.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_cpuflags.h 文件类型不支持
+
+[227]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_pause.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/generic/rte_pause.h 文件类型不支持
+
+[228]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/exec-env/rte_kni_common.h  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/include/exec-env/rte_kni_common.h 文件类型不支持
+
+[229]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/kni_misc.c  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/kni_misc.c 文件类型不支持
+
+[230]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/Makefile  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/Makefile 文件类型不支持
+
+[231]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/kni_net.c  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/kni_net.c 文件类型不支持
+
+[232]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/igb_uio.c  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/igb_uio.c 文件类型不支持
+
+[233]  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/Makefile  /root/DPDK/dpdk-stable-18.11.11/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/Makefile 文件类型不支持
+
